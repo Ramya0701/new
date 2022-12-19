@@ -1,0 +1,24 @@
+body{padding:0;
+     margine:0;
+     background:lightyellow;
+     color:black}
+.end{height:500px;
+     width:1500px;
+     padding:0px 0px 10px 0px}
+
+.scroll1{display:flex;}
+.scroll2{display:flex;}
+.scroll3{display:flex;}
+
+.alt1{padding:10px 100px 20px 100px;}
+.alt2{padding:10px 100px 20px 100px;}
+.alt3{padding:10px 100px 20px 100px;}
+.alt4{padding:10px 100px 20px 100px;}
+.alt5{padding:10px 100px 20px 100px;}
+.alt6{padding:10px 100px 20px 100px;}
+
+table,tr,td{border:2px solid black;}
+th, td {
+  padding: 5px;
+  text-align: left;}
+tr:hover {background-color: coral;}
